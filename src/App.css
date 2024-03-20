@@ -1,0 +1,12 @@
+.container {
+    background-color: var(--clr-white);
+    border-radius: 0.3rem;
+    width: 100%;
+    max-width: 1020px;
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.3);
+}
+
+.delete-button {
+    color: var(--clr-primary);
+    background-color: var(--clr-red);
+}
